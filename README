@@ -1,0 +1,11 @@
+Program Author: Mujtaba Mujtaba, 101167348
+purpose: The main purpose of this code is to manage the users agenda taking multiple calendars, first an agenda is declared.
+Then a few calenders are declared depending on the users needs, and a few dates are added in the specific calendars.
+Source files: main.cc, Agenda.cc, Calendar.cc, Date.cc
+
+Header files: Agenda.h, Calendar.h, Date.h
+
+to compile type: make
+to run: ./agenda
+to clear .o and exectutable: make clean
+
